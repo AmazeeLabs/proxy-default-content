@@ -1,6 +1,6 @@
 {
   "name": "@-amazeelabs/proxy-default-content",
-  "version": "1.1.12",
+  "version": "1.1.14",
   "author": "Amazee Labs <development@amazeelabs.com>",
   "publishConfig": {
     "access": "public",
@@ -14,5 +14,5 @@
   "scripts": {
     "version": "sync-composer-version"
   },
-  "gitHead": "b14bfd1dfc5fb146af9930e4fb46386d6b864bda"
+  "gitHead": "257e583fa7ff5fcf847072cc825292868593c847"
 }
